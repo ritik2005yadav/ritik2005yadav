@@ -1,3 +1,5 @@
+![GitHub Profile Banner](./asset/bg-image.png)
+
 ## 💻 Technical Skills
 
 ### 👨‍💻 Programming Languages
